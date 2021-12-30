@@ -1,0 +1,24 @@
+/* #containerJumbo{
+    background: #E1F5FE;
+} */
+
+#fb-btn{
+    background: #eee;
+}
+
+#in-btn{
+    background: #eee;
+}
+
+#footer{
+    background: #eee;
+}
+
+.animate__animated.animate__fadeIn {
+    --animate-duration: 2s;
+}
+
+.animate__animated.animate__fadeInDown {
+    --animate-duration: 2s;
+}
+
