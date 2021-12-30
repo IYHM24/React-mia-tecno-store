@@ -1,5 +1,4 @@
 import React from 'react';
-import logo from '../img/logo.png'
 import UserMenu from './userMenu';
 import '../css/Header.css'
 
@@ -18,7 +17,7 @@ const Header = () => {
                         aria-label="Toggle navigation"
                     ><i className="material-icons">menu</i></button>
                     <a className="navbar-brand px-5" href="/">
-                        <img src={logo} alt="logo" width="60px" className="d-inline-block align-top" />
+                        <img src='../assets/logo.png' alt="logo" width="60px" className="d-inline-block align-top" />
                     </a>
                     <div className="navbar-nav d-sm-block d-lg-none">
                         <UserMenu />
