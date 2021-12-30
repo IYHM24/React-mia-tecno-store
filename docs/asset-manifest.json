@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6dab8e23.css",
+    "main.js": "/static/js/main.15c437a1.js",
+    "static/media/instagram.png": "/static/media/instagram.b22808cfa4f5f51fc2ca.png",
+    "static/media/entrega.png": "/static/media/entrega.dd0f61642c8b9e473d9a.png",
+    "static/media/noticias.png": "/static/media/noticias.53e7a9dab6aeaff0a5a3.png",
+    "static/media/consejo.png": "/static/media/consejo.d18374b046aefbe64afa.png",
+    "static/media/facebook.png": "/static/media/facebook.b22498dbe9c4a041a18e.png",
+    "static/media/Certificados_digitales-firmaprofesional-main.png": "/static/media/Certificados_digitales-firmaprofesional-main.33155a341975cb5d6404.png",
+    "static/media/logo.png": "/static/media/logo.26669007af29a5618c3d.png",
+    "index.html": "/index.html",
+    "main.6dab8e23.css.map": "/static/css/main.6dab8e23.css.map",
+    "main.15c437a1.js.map": "/static/js/main.15c437a1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6dab8e23.css",
+    "static/js/main.15c437a1.js"
+  ]
+}
